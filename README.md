@@ -14,8 +14,6 @@ I am a Full Stack developer at Defense Industry that specializes in building end
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-//https://www.typescriptlang.org/
-//https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 
 ## 💻 Other Technologies
 
